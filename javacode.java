@@ -1,4 +1,4 @@
-pacakage p1;
+//pacakage p1;
 
 public class main{
 
